@@ -1,0 +1,7 @@
+media/* linguist-vendored
+docs/* linguist-vendored
+*.mp4 linguist-vendored
+*.mov linguist-vendored
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.pdf linguist-vendored
