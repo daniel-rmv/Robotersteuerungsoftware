@@ -1,10 +1,13 @@
-# Robotersteuerung
+# Robotic Control System
 
-Python-Software zum Steuern vom Hiwonder ArmPi Pro.
+Python software to control the Hiwonder ArmPi Pro robot.
 
-## Inhalt
-- Chassis bewegen
-- Arm steuern
-- Videos im media-Ordner
+## Features
 
-👨🏽‍💻 Erstellt als Schülerprojekt
+- Move the chassis (Mecanum wheel control)
+- ontrol the robotic arm
+- Demo videos available in the `media/` folder
+
+---
+
+👨🏽‍💻 Created as a student project
