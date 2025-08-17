@@ -8,8 +8,7 @@ Python software to control the Hiwonder ArmPi Pro robot.
 
 - Move the chassis (Mecanum wheel control)
 - Control the robotic arm
-- Demo videos available in the `media/` folder
-
+- Demo videos available on my YouTube https://www.youtube.com/@danielrmv
 ---
 
 👨🏽‍💻 Created as a student project
